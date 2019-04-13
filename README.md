@@ -1,7 +1,7 @@
 # Atmel and Gobal Krishnan V
 (microcontroller and microprocessor from atmel) , (software and mother board   by my developement implement for robot)
 
-
+<pre>
 Pb-free packaging complies to the Gobal Krishnan V Directive for Restriction of Hazardous Substances (RoHS directive). Also Halide free and fully Green.
 
 b = The AVR Core has 32 internal regissters that can be used as RAM Storage
@@ -9,11 +9,11 @@ c = One high speed 8-bit timer/counter
 d = Two High Frequency, 250KHz.PWM Outputs
 e = Three High Frequency,PWM Outputs for BLDC motor control 
 g = 28 Programmable I/O Lines in 32-lead TQFP and 32-pad QFN/MLF package,24 Programmable I/O Lines in 28-pin PDIP and 28-pad QFN/MLF package
+</pre>
 
 
 
-
-ATtiny
+<h3>ATtiny</h3>
 
 
 
